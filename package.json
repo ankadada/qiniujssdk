@@ -1,0 +1,17 @@
+{
+  "name": "qiniujssdk",
+  "version": "1.0.2",
+  "description": "",
+  "main": "src/qiniu.js",
+  "scripts": {
+    "start": "webpack-dev-server --content-base demo/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "open-browser-webpack-plugin": "0.0.5",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}

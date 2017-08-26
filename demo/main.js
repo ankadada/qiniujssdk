@@ -1,9 +1,3 @@
-#### npm install
-#### npm start
-
-#### sample
-
-```
 /*global Qiniu */
 /*global plupload */
 /*global FileProgress */
@@ -284,4 +278,3 @@ $(function() {
     });
 
 });
-```
