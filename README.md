@@ -1,3 +1,4 @@
+#### npm install jssdk
 #### npm install
 #### npm start
 
